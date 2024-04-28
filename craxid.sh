@@ -16,13 +16,13 @@ sudo apt update
 
 sudo apt upgrade -y
 
-sudo apt install -y xfce4 desktop-base dbus-x11 xfce4-terminal firefox-esr
+sudo apt install -y kde-standard
 
 clear
 
 sleep 3
 
-echo Instalasi XFCE Selesai!
+echo Instalasi KDE Selesai!
 
 clear
 
