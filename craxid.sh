@@ -16,7 +16,7 @@ sudo apt update
 
 sudo apt upgrade -y
 
-sudo apt install -y kde-standard
+sudo apt install ubuntu-desktop-minimal -y
 
 clear
 
